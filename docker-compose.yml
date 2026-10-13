@@ -1,0 +1,7 @@
+services:
+  prediction-app:
+    build: .
+    container_name: predictlab-app
+    ports:
+      - "5000:5000"
+    restart: unless-stopped
