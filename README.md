@@ -333,8 +333,6 @@ mlops-prediction-demo/
     ├── architecture.png
     ├── input.png
     ├── output.png
-    ├── api-docs.png
-    ├── ci-passing.png
     └── demo.gif
 ```
 
