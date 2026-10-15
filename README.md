@@ -144,20 +144,6 @@ The project follows a simple, repeatable path from raw data to a working service
   </tr>
 </table>
 
-### 📖 The built-in interactive page
-
-FastAPI creates a **test page automatically** at `/docs`, so you can try the model with clicks instead of code.
-
-<div align="center">
-  <img src="screenshots/api-docs.png" alt="FastAPI interactive documentation page" width="700">
-</div>
-
-### ✅ Automated checks passing
-
-<div align="center">
-  <img src="screenshots/ci-passing.png" alt="GitHub Actions showing a green passing run" width="700">
-</div>
-
 ---
 
 ## 🛠️ Step-by-Step: Run It Yourself
